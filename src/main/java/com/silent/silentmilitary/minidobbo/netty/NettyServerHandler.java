@@ -1,6 +1,8 @@
-package com.silent.silentmilitary.minidobbo;
+package com.silent.silentmilitary.minidobbo.netty;
 
 import com.alibaba.fastjson.JSON;
+import com.silent.silentmilitary.minidobbo.entity.Request;
+import com.silent.silentmilitary.minidobbo.entity.Response;
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.channel.ChannelInboundHandlerAdapter;
 import io.netty.handler.timeout.IdleState;

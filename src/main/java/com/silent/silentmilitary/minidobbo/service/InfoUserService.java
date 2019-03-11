@@ -1,4 +1,6 @@
-package com.silent.silentmilitary.minidobbo;
+package com.silent.silentmilitary.minidobbo.service;
+
+import com.silent.silentmilitary.minidobbo.entity.InfoUser;
 
 import java.util.List;
 import java.util.Map;

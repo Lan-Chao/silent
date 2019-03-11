@@ -1,4 +1,4 @@
-package com.silent.silentmilitary.minidobbo;
+package com.silent.silentmilitary.minidobbo.annotation;
 
 
 import org.springframework.stereotype.Component;

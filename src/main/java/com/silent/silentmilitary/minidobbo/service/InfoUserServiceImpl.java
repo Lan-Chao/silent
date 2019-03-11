@@ -1,6 +1,8 @@
-package com.silent.silentmilitary.minidobbo;
+package com.silent.silentmilitary.minidobbo.service;
 
 import com.alibaba.fastjson.JSONObject;
+import com.silent.silentmilitary.minidobbo.entity.InfoUser;
+import com.silent.silentmilitary.minidobbo.annotation.RpcService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

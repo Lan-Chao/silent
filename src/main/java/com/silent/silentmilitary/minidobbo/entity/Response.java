@@ -1,4 +1,4 @@
-package com.silent.silentmilitary.minidobbo;
+package com.silent.silentmilitary.minidobbo.entity;
 
 /**
  * @author : silent【agzhchren@gmail.com】
